@@ -318,6 +318,138 @@ Learning Schedule for SDE-2 preparation
 6. [Sum Of Subarray Minimums ](https://leetcode.com/problems/sum-of-subarray-minimums/)
 7. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
+## Day 25
+
+### Theory
+
+1. Low Level Design - [Playlist (Video 1-4)](https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k)
+
+### Problem Solving
+
+1. [3 Sum](https://leetcode.com/problems/3sum/)
+2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+3. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
+4. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+
+## Day 26
+
+### Theory
+
+1. Low Level Design - [Playlist (Video 5-9)](https://www.youtube.com/playlist?list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k)
+
+### Problem Solving
+
+1. [Next Permutation](https://leetcode.com/problems/next-permutation/)
+2. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+3. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+4. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+## Day 27
+
+### Theory
+
+1. Design Patterns - [Playlist (video 1-5)](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc) - [Text](https://refactoring.guru/design-patterns/catalog) (Read the same design patterns from video)
+
+### Problem Solving
+
+1. [Max Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+2. [Flood Fill](https://leetcode.com/problems/flood-fill/)
+3. [Word Search](https://leetcode.com/problems/word-search/)
+4. [N Queens](https://leetcode.com/problems/n-queens/)
+
+## Day 28
+
+### Theory
+
+1. Design Patterns - [Playlist (video 6-10)](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc) - [Text](https://refactoring.guru/design-patterns/catalog) (Read the same design patterns from video)
+
+### Problem Solving
+
+1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+2. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+3. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+4. [Integer To Roman](https://leetcode.com/problems/integer-to-roman/)
+
+## Day 29
+
+### Theory
+
+1. Design Patterns - [Playlist (video 11-15)](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc) - [Text](https://refactoring.guru/design-patterns/catalog) (Read the same design patterns from video)
+
+### Problem Solving
+
+1. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+2. [Gas Station](https://leetcode.com/problems/gas-station/)
+3. [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+4. [Maximum Number Of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+
+## Day 30
+
+### Theory
+
+1. Design Patterns - [Playlist (video 16-20)](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc) - [Text](https://refactoring.guru/design-patterns/catalog) (Read the same design patterns from video)
+
+### Problem Solving
+
+1. [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+2. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+3. [Restore The Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)
+4. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+
+## Day 31
+
+### Theory
+
+1. Design Patterns - [Playlist (video 21-23)](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc) - [Text](https://refactoring.guru/design-patterns/catalog) (Read the same design patterns from video)
+
+### Problem Solving
+
+1. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+2. [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+3. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+4. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+## Day 32
+
+### Theory
+
+1. [Parking Lot LLD](https://www.youtube.com/watch?v=MtjZf7291zc&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=8&pp=iAQB) - Try solving the problem on your own once
+2. [Snake and Ladders LLD](https://www.youtube.com/watch?v=88bcV-XV0wo&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=9&pp=iAQB) - Try solving the problem on your own once
+
+### Problem Solving
+
+1. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+2. [Construct Binary Tree From Preorder And Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+3. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+
+## Day 33
+
+### Theory 
+
+1. [Elevator System](https://www.youtube.com/watch?v=9ORcPv_Tbz8&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=10&pp=iAQB) - Try solving the problem on your own once
+2. [Car Rental](https://www.youtube.com/watch?v=J4GO6hmR6TA&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=11&pp=iAQB) - Try solving the problem on your own once
+
+### Problem Solving
+
+1. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+2. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+3. [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+## Day 34
+
+### Theory
+
+1. [Logging System LLD](https://www.youtube.com/watch?v=gvIn5QBdGDk&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=12&pp=iAQB) - Try solving the problem on your own once
+2. [Tic-Tac-Toe LLD](https://www.youtube.com/watch?v=x8N3fINNdTE&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=13&pp=iAQB) - Try solving the problem on your own once
+
+### Problem Solving
+
+1. [Maximum Width Of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+2. [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+3. [Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+4. [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+
+## Day 35
 
 
 

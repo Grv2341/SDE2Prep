@@ -449,7 +449,6 @@ Learning Schedule for SDE-2 preparation
 3. [Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 4. [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-## Day 35
 
 
 

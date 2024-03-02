@@ -448,6 +448,16 @@ Learning Schedule for SDE-2 preparation
 2. [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 3. [Kth Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 4. [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+   
+# HLD Prep
+
+## Theory
+
+[System Design Course](https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+
+## Mock Interviews
+
+[Mock Interview Playlist](https://www.youtube.com/watch?v=KYExYE_9nIY&list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
 
 
 
